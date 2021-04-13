@@ -1,14 +1,40 @@
 body {
   margin-top: 50px;
   text-align: center;
-  color: #5c5c5c;
+  color: #fff;
+  background-color: #444444;
 }
 
 .form-group {
-  width: 500px;
+  width: 600px;
   margin: auto;
+}
+
+img {
+  margin-top: 2rem;
 }
 
 h1 {
   text-transform: capitalize;
+  text-align: left;
+  margin: auto;
+  width: 300px;
+}
+
+#header {
+  text-transform: none;
+  width: 675px;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+p {
+  margin: auto;
+  width: 300px;
+  text-align: left;
+}
+
+input {
+  margin-bottom: 1rem;
 }

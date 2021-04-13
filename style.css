@@ -1,0 +1,14 @@
+body {
+  margin-top: 50px;
+  text-align: center;
+  color: #5c5c5c;
+}
+
+.form-group {
+  width: 500px;
+  margin: auto;
+}
+
+h1 {
+  text-transform: capitalize;
+}
